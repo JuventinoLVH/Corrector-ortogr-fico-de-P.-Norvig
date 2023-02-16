@@ -10,7 +10,6 @@ pronunciation: pronounciation
 transportability: transportibility
 minuscule: miniscule
 independent: independant independant
-corrected: korrectud
 arranged: aranged arrainged
 poetry: poartry poertry poetre poety powetry
 level: leval

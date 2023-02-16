@@ -9,7 +9,6 @@ compare: compair
 pronunciation: pronounciation
 transportability: transportibility
 minuscule: miniscule
-corrected: korrectud
 independent: independant independant
 arranged: aranged arrainged
 poetry: poartry poertry poetre poety powetry
